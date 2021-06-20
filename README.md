@@ -7,7 +7,7 @@
 ## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **Guangxi Normal University - 132 Waihuan East Rd. - ChangSha, China**
 - Site
   - **<https://wu-kan.cn>**
 - [Resume](https://wu-kan.github.io/resume/resume.pdf)
@@ -15,12 +15,11 @@
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 18574919704**
 - WeChat
-  - **Wu-\_-Kan**
+  - **宋嘉港**
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **[songjg@gxnu.edu.cn](mailto:songjg@gxnu.edu.cn)**
 
 <!-- .slide -->
 
